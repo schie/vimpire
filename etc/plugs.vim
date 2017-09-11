@@ -27,6 +27,7 @@ Plug 'kchmck/vim-coffee-script'
 Plug 'burnettk/vim-angular'
 Plug 'othree/html5.vim'
 Plug 'tpope/vim-haml'
+Plug 'leafgarland/typescript-vim'
 
 " user text objects
 Plug 'kana/vim-textobj-user'

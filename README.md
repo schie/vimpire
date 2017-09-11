@@ -28,6 +28,7 @@ A curated collection of Vim settings, plugins, and themes. :imp:
   * vim-addons-mw-utils
 * vim-snippets
 * vim-surround
+* typscript-vim
 
 ### Themes:
 * jellybeans.vim - *default theme*
